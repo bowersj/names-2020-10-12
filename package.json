@@ -1,0 +1,15 @@
+{
+  "name": "names-2020-10-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dateGenerators.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^5.0.3",
+    "lorem-ipsum": "^2.0.3"
+  }
+}
